@@ -1,0 +1,15 @@
+Hacerlo con las plantillas descargadas
+
+
+integrar los script en el _document.js dentro de la etiqueta head
+
+el @media el css global
+
+el global.css y el bootrap min el el app.js
+
+cambiar los class por los className
+
+ver la version de bootswatch en el package.json y compararla con el de bootstrap
+
+//Revisar cambiar color del nav al hacer scroll
+	los cards de bluuweb
